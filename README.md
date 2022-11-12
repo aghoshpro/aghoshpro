@@ -5,7 +5,7 @@
 - 👀 I’m interested in a lot of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph in the context of gepspatial data.
 - 💞️ I’m looking to collaborate on ...
-- 📫 Drop me a email mailto:aghoshpro@gmail.com with a coffee :D. 
+- 📫 Drop me a email [aghoshpro@gmail.com](mailto:aghoshpro@gmail.com) with a coffee :D. 
 
 <!---
 aghoshpro/aghoshpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
