@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="[add your link here](https://media.tenor.com/ang0VzOwbdAAAAPo/the-matrix-reloaded-matrix.mp4)">
+  
 - 👋 Hi, this is Arka from the Earth.
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph.
