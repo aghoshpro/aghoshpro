@@ -1,6 +1,4 @@
-<img align="right" width="400" src="https://tenor.com/qZFw.gif">
-https://tenor.com/qZFw.gif
-
+![Alt Text](https://tenor.com/qZFw.gif)
 - 👋 Hi, this is Arka from the Earth.
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph.
