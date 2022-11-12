@@ -1,5 +1,4 @@
-<!-- ![hero_wide_3](https://user-images.githubusercontent.com/71174892/201480375-9e39a456-7e72-4022-a131-909e5bc918f1.png) -->
-![summer-minimalist-wallpaper-3840x2160-64866_687556348](https://user-images.githubusercontent.com/71174892/201482327-6973fa4d-8624-4adf-91cd-f28948178f06.jpg)
+![hero_wide_3](https://user-images.githubusercontent.com/71174892/201480375-9e39a456-7e72-4022-a131-909e5bc918f1.png)
 
 - 👋 Hi, this is Arka from the Earth.
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
