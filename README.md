@@ -1,4 +1,4 @@
-- 👋 Hi, this is Arka from the Earth. 
+- 👋 Hi, this is Arka from the Earth. xoxo 
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph.
 - 💞️ I’m looking to collaborate on ...
