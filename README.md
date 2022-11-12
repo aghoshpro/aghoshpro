@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://tenor.com/qZFw.gif">
-
+<img align="right" width="400" src="https://tenor.com/qZFw.gif">
+https://tenor.com/qZFw.gif
 
 - 👋 Hi, this is Arka from the Earth.
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
