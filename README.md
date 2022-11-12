@@ -1,4 +1,4 @@
-![5ZItAC](https://4.bp.blogspot.com/-GNi_pEBBB0g/XdB_HAMzMxI/AAAAAAAABWM/nY-xoiFMnEsQV7-D2IljhlyM87N_PxfJACLcBGAsYHQ/s1600/hero_wide_3.png)
+![hero_wide_3](https://user-images.githubusercontent.com/71174892/201480375-9e39a456-7e72-4022-a131-909e5bc918f1.png)
 
 - 👋 Hi, this is Arka from the Earth.
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
