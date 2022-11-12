@@ -1,5 +1,6 @@
-  ![image](https://media.tenor.com/ang0VzOwbdAAAAPo/the-matrix-reloaded-matrix.mp4)
-  
+https://user-images.githubusercontent.com/71174892/201478650-7007cf43-b48f-4859-ab8f-0f856c789fed.mp4
+
+
 - 👋 Hi, this is Arka from the Earth.
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph.
