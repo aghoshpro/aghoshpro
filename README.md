@@ -1,4 +1,4 @@
-![](https://tenor.com/view/the-matrix-reloaded-matrix-reloaded-neo-keanu-reeves-gif-4011236)
+![](![image](https://user-images.githubusercontent.com/71174892/201478883-51bb6dee-8cc6-4f0c-8034-a2676d16dace.png))
 - 👋 Hi, this is Arka from the Earth.
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph.
