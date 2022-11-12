@@ -1,4 +1,6 @@
 ![](![image](https://user-images.githubusercontent.com/71174892/201478883-51bb6dee-8cc6-4f0c-8034-a2676d16dace.png))
+![5ZItAC](https://user-images.githubusercontent.com/71174892/201480071-74f30f5e-8bb0-42d5-b60e-de144b45c05c.jpg)
+
 - 👋 Hi, this is Arka from the Earth.
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph.
