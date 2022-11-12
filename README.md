@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph in the context of gepspatial data.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Drop me a email [aghoshpro@gmail.com](mailto:aghoshpro@gmail.com) with a coffee :D. 
-
+Flag: India on JoyPixels 7.0
 <!---
 aghoshpro/aghoshpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
