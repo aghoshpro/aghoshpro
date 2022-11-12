@@ -1,4 +1,4 @@
-![5ZItAC](https://www.pixelstalk.net/wp-content/uploads/2016/04/Dark-minimalist-wallpapers-free-download.png)
+![5ZItAC](https://4.bp.blogspot.com/-GNi_pEBBB0g/XdB_HAMzMxI/AAAAAAAABWM/nY-xoiFMnEsQV7-D2IljhlyM87N_PxfJACLcBGAsYHQ/s1600/hero_wide_3.png)
 
 - 👋 Hi, this is Arka from the Earth.
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
