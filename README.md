@@ -1,7 +1,7 @@
 <!-- ![hero_wide_3](https://user-images.githubusercontent.com/71174892/201480375-9e39a456-7e72-4022-a131-909e5bc918f1.png) -->
 ![4175186BW](https://user-images.githubusercontent.com/71174892/201482577-2a0490b8-2321-45a2-b170-bb3295a023a6.jpg)
 
-- 👋 Hi, this is Arka from the Earth (Country visited: 🇦🇿 )
+- 👋 Hi, this is Arka from the Earth (Country visited: 🇦🇿 🇧🇷)
 - 👀 I’m interested in a lot of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph in the context of gepspatial data.
 - 💞️ I’m looking to collaborate on ...
