@@ -1,5 +1,6 @@
-![hero_wide_3](https://user-images.githubusercontent.com/71174892/201480375-9e39a456-7e72-4022-a131-909e5bc918f1.png)
-![matrix-code](https://user-images.githubusercontent.com/71174892/201482298-51a9e29f-88a1-4299-bdef-1d0f8f274f51.gif)
+<!-- ![hero_wide_3](https://user-images.githubusercontent.com/71174892/201480375-9e39a456-7e72-4022-a131-909e5bc918f1.png) -->
+![summer-minimalist-wallpaper-3840x2160-64866_687556348](https://user-images.githubusercontent.com/71174892/201482327-6973fa4d-8624-4adf-91cd-f28948178f06.jpg)
+
 - 👋 Hi, this is Arka from the Earth.
 - 👀 I’m interested in a lor of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph.
