@@ -6,7 +6,7 @@
  
 
 - Hi, this is Arka from the 🌏 
-- Visited: :india:|:bhutan:|:nepal:|:sweden:|:norway:|:austria:|:slovakia:|:denmark:| * <img src=https://user-images.githubusercontent.com/71174892/201881730-8119317f-d357-47ea-9cb9-e3035db7d456.png width="20"/> * <img src=https://user-images.githubusercontent.com/71174892/201880894-de386fa1-57af-4011-91fe-50602540d8fd.png width="20"/>* :de:
+- Visited: :india:|:bhutan:|:nepal:|:sweden:|:norway:|:austria:|:slovakia:|:denmark:|:de:
 - 👀 I’m interested in a lot of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph in the context of geo-spatial data.
 - 💞️ I’m looking to collaborate on ...
