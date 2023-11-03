@@ -6,7 +6,7 @@
  
 
 - Hi, this is Arka from the 🌏 
-- Visited:  :india: ~ :bhutan: ~ :nepal: ~ :sweden: ~ :norway: ~ :austria: ~ :slovakia: ~ :denmark: ~ :de: ~ :it:~![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/ee532728-ecd1-4b98-97c0-06a4837ea9cf)
+- Visited:  :india: ~ :bhutan: ~ :nepal: ~ :sweden: ~ :norway: ~ :austria: ~ :slovakia: ~ :denmark: ~ :de: ~![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/e9308cfe-6f9e-4d90-8924-dd173a71ac7c)~ :it:
 
 - 👀 I’m interested in a lot of things like coding, stargazing, photography, talking new people and travelling.
 - 🌱 I’m currently learning Datalog, Virtual Knowledge Graph in the context of geo-spatial data.
