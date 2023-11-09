@@ -12,9 +12,11 @@
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/5b0ffc63-dbc9-45d4-b5ba-5f3b55287a7e)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/5055cfcd-4f15-461f-a4bc-51b3320b5dd0)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/db8d36df-a233-4b25-8a31-7c04bed4cf71)
- ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/c75da90b-9341-4d28-b98e-f62ef4157213)
- ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/c9eadb41-dbf9-45a0-8b68-3b47f4bbbeb7) ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/150f6e8c-945a-4e1f-a749-0498278aeb94)
- ~![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/e9308cfe-6f9e-4d90-8924-dd173a71ac7c) ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/9e91a48a-738f-4a75-9f56-5cd0bb0b0046)
+ ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/328bec3b-3247-4795-ba8d-b3bc1fdf1054)
+ ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/c9eadb41-dbf9-45a0-8b68-3b47f4bbbeb7)
+ ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/150f6e8c-945a-4e1f-a749-0498278aeb94)
+ ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/e9308cfe-6f9e-4d90-8924-dd173a71ac7c)
+ ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/9e91a48a-738f-4a75-9f56-5cd0bb0b0046)
 
 
 - 👀 I’m interested in a lot of things like coding, stargazing, photography, talking new people and travelling.
