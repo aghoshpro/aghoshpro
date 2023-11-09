@@ -10,8 +10,10 @@
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/e54342c5-ae95-41fa-82c2-39b654e01ae3)
  ~ :nepal: ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/5b0ffc63-dbc9-45d4-b5ba-5f3b55287a7e)
  ~ :norway: ~ :austria: ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/c75da90b-9341-4d28-b98e-f62ef4157213)
- ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/3a01041d-a3ce-4678-929a-95d7012dcd1c)
- ~ https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE.png?raw=true ~![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/e9308cfe-6f9e-4d90-8924-dd173a71ac7c) ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/9e91a48a-738f-4a75-9f56-5cd0bb0b0046)
+ ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/3a01041d-a3ce-4678-929a-95d7012dcd1c) ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/c9eadb41-dbf9-45a0-8b68-3b47f4bbbeb7)
+
+ ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/150f6e8c-945a-4e1f-a749-0498278aeb94)
+ ~![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/e9308cfe-6f9e-4d90-8924-dd173a71ac7c) ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/9e91a48a-738f-4a75-9f56-5cd0bb0b0046)
 
 
 - 👀 I’m interested in a lot of things like coding, stargazing, photography, talking new people and travelling.
