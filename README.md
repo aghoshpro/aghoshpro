@@ -6,7 +6,7 @@
  
 
 - Hi, this is Arka from the 🌏 
-- Wroked at :![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/665a1d42-92ca-44a7-8239-9630f11bcb9d)
+- Wroked at  ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/665a1d42-92ca-44a7-8239-9630f11bcb9d)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/e54342c5-ae95-41fa-82c2-39b654e01ae3)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/25d9a3ac-e40b-49d2-8957-cacb8b8a2250)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/5055cfcd-4f15-461f-a4bc-51b3320b5dd0)
