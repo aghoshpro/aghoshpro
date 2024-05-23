@@ -21,5 +21,5 @@
 - 📫 Drop me a email [arkag@cs.umu.se](mailto:arkag@cs.umu.se) to contact :D .  
 
 
-https://github-readme-stats.vercel.app/api?username=aghoshpro&theme=chartreuse-dark&show_icons=true
-[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aghoshpro&layout=compact)
+<!--[Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=aghoshpro&theme=chartreuse-dark&show_icons=true)
+[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aghoshpro&layout=compact) --!>
