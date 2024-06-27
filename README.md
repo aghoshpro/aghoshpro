@@ -17,9 +17,9 @@
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/9e91a48a-738f-4a75-9f56-5cd0bb0b0046)
 
 
-- 👀 I’m interested in a lot of things like coding, stargazing, photography, talking new people and travelling.
-- 🌱 I’m currently learning Datalog, Virtual Knowledge Graph in the context of geo-spatial data.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in many things like coding, stargazing, photography, talking to new people and travelling.
+- 🌱 I’m currently learning everything I can
+- 💞️ I’m looking to collaborate on anything from Coding, Data Science, Raster data management, Spatial Data Processing, Ontologies 
 - 📫 Drop me a email [arkag@cs.umu.se](mailto:arkag@cs.umu.se) to contact :D .  
 
 
