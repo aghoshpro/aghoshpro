@@ -1,4 +1,4 @@
-# Howdy 👋
+## Howdy 👋
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/71174892/201482577-2a0490b8-2321-45a2-b170-bb3295a023a6.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/aghoshpro/aghoshpro/assets/71174892/98476928-419b-4f23-a85b-c2b9929d0cc9">
