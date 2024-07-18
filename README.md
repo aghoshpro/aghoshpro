@@ -19,7 +19,8 @@
 
 ### Working Internationally
 
-- I've had the opportunity to work on-site at various international locations: ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/665a1d42-92ca-44a7-8239-9630f11bcb9d)
+- I've had the opportunity to work on-site at various international locations:
+- ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/665a1d42-92ca-44a7-8239-9630f11bcb9d)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/25d9a3ac-e40b-49d2-8957-cacb8b8a2250)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/5055cfcd-4f15-461f-a4bc-51b3320b5dd0)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/db8d36df-a233-4b25-8a31-7c04bed4cf71)
