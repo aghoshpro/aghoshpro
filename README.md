@@ -7,7 +7,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=2000&color=52C800&multiline=true&random=false&width=1102&height=150&lines=01100100100111001100101011110100101110+Hi%2C+I'm+Arka+Ghosh+0001100100111110001110001010000101;In+a+world+where+complex+data+generated+from+science+and+industry+is+abundant%2C+I+investigate+;ways+to+connect+these+enormous+arrays+of+data+with+more+relational+databases.+My+research+%26;work+experience+helps+users+to+efficiently+query+databases+and+effortlessly+extract+useful+;information+leads+to+robust+decision+making%2C+attractive+visualization+and+revolutionary+discoveries.;01110010011100111001011010000110010011111000111000101101011010110011101100011010001011011110001101100101011000011110011001000101100110000000110101001110000100110000111000010100001100101000110111000000011001001010111010011101010101110001101101111101001010110)](https://git.io/typing-svg)
 
-- Working internationally onsite at locations like ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/665a1d42-92ca-44a7-8239-9630f11bcb9d)
+
+
+
+### About Me
+
+- 👀 I’m interested in many things like coding, stargazing, photography, talking to new people, and travelling.
+- 🌱 I’m currently learning everything I can.
+- 💞️ I’m looking to collaborate on anything from Coding, Data Science, Raster data management, Spatial Data Processing, and Ontologies.
+- 📫 Drop me an email at [arkag@cs.umu.se](mailto:arkag@cs.umu.se) to contact :D.
+
+### Working Internationally
+
+- I've had the opportunity to work on-site at various international locations: ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/665a1d42-92ca-44a7-8239-9630f11bcb9d)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/25d9a3ac-e40b-49d2-8957-cacb8b8a2250)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/5055cfcd-4f15-461f-a4bc-51b3320b5dd0)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/db8d36df-a233-4b25-8a31-7c04bed4cf71)
@@ -16,12 +28,23 @@
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/150f6e8c-945a-4e1f-a749-0498278aeb94)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/e9308cfe-6f9e-4d90-8924-dd173a71ac7c)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/9e91a48a-738f-4a75-9f56-5cd0bb0b0046)
+ ~ GR![gr](https://github.com/user-attachments/assets/3ba3e2db-a2bb-4349-a5a5-6a6b21873f54)<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-gr" viewBox="0 0 640 480">
+  <path fill="#0d5eaf" fill-rule="evenodd" d="M0 0h640v53.3H0z"/>
+  <path fill="#fff" fill-rule="evenodd" d="M0 53.3h640v53.4H0z"/>
+  <path fill="#0d5eaf" fill-rule="evenodd" d="M0 106.7h640V160H0z"/>
+  <path fill="#fff" fill-rule="evenodd" d="M0 160h640v53.3H0z"/>
+  <path fill="#0d5eaf" d="M0 0h266.7v266.7H0z"/>
+  <path fill="#0d5eaf" fill-rule="evenodd" d="M0 213.3h640v53.4H0z"/>
+  <path fill="#fff" fill-rule="evenodd" d="M0 266.7h640V320H0z"/>
+  <path fill="#0d5eaf" fill-rule="evenodd" d="M0 320h640v53.3H0z"/>
+  <path fill="#fff" fill-rule="evenodd" d="M0 373.3h640v53.4H0z"/>
+  <g fill="#fff" fill-rule="evenodd" stroke-width="1.3">
+    <path d="M106.7 0H160v266.7h-53.3z"/>
+    <path d="M0 106.7h266.7V160H0z"/>
+  </g>
+  <path fill="#0d5eaf" d="M0 426.7h640V480H0z"/>
+</svg>
 
-
-- 👀 I’m interested in many things like coding, stargazing, photography, talking to new people and travelling.
-- 🌱 I’m currently learning everything I can
-- 💞️ I’m looking to collaborate on anything from Coding, Data Science, Raster data management, Spatial Data Processing, Ontologies 
-- 📫 Drop me a email [arkag@cs.umu.se](mailto:arkag@cs.umu.se) to contact :D .  
 
 
 <!--[Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=aghoshpro&theme=chartreuse-dark&show_icons=true)
