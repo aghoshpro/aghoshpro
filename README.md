@@ -14,7 +14,7 @@
 
 - 👀 I’m interested in many things like coding, stargazing, photography, talking to new people, and travelling.
 - 🌱 I’m currently learning everything I can.
-- 💞️ I’m looking to collaborate on anything from Coding, Data Science, Raster data management, Spatial Data Processing, and Ontologies.
+- 💞️ I’m looking to collaborate on anything from Coding, Data Science, Spatial Data (Raster and vector) Management and Processing.
 - 📫 Drop me an email at [arkag@cs.umu.se](mailto:arkag@cs.umu.se) to contact :D.
 
 ### Working Internationally
