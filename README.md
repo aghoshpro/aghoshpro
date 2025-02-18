@@ -35,5 +35,12 @@
 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aghoshpro/aghoshpro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aghoshpro/aghoshpro/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aghoshpro/aghoshpro/output/github-snake.svg" />
+</picture>
+
+
 <!--[Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=aghoshpro&theme=chartreuse-dark&show_icons=true)
 [Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aghoshpro&layout=compact) --!>
