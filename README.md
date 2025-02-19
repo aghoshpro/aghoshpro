@@ -35,7 +35,7 @@
 
 ### Git Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aghoshpro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aghoshpro&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false&point=E0115F&area_color=F0FFB2&line=CEFF00&color=CEFF00" height="200" alt="activity-graph graph"  />
 </div>
