@@ -33,10 +33,10 @@
  ~ ![RO](https://github.com/user-attachments/assets/5a5e4dfe-d287-433f-8315-aa8b3ed58c8b)
 
 
-
+### Git Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aghoshpro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aghoshpro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=aghoshpro&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aghoshpro&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
