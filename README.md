@@ -12,10 +12,10 @@
 
 ### About Me
 
-- 👀 I’m interested in many things like coding, stargazing, photography, talking to new people, and travelling.
+- 👀 I’m interested in many things like coding, stargazing, vexillology, photography, meeting new people, food and travelling.
 - 🌱 I’m currently learning everything I can.
 - 💞️ I’m looking to collaborate on anything from Coding, Data Science, Spatial Data (Raster and vector) Management and Processing.
-- 📫 Drop me an email at [arkag@cs.umu.se](mailto:arkag@cs.umu.se) to contact :D.
+- 📫 Drop me an email at [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aghoshpro@proton.me) to contact :D.
 
 ### Working Internationally
 
