@@ -28,21 +28,22 @@
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/9e91a48a-738f-4a75-9f56-5cd0bb0b0046)
  ~ ![GR](https://github.com/user-attachments/assets/eadcd35f-cb68-421e-bbc9-320d97f85beb)
  ~ ![RO](https://github.com/user-attachments/assets/5a5e4dfe-d287-433f-8315-aa8b3ed58c8b)
----
+
+## Git Stats
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aghoshpro/aghoshpro/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aghoshpro/aghoshpro/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aghoshpro/aghoshpro/output/github-snake.svg" />
 </picture>
 
-### Git Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aghoshpro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false&order=2" height="190" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aghoshpro&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false&point=E0115F&area_color=F0FFB2&line=CEFF00&color=CEFF00" height="190" alt="activity-graph graph"  />
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/aghoshpro/count.svg?"  />
