@@ -1,9 +1,10 @@
 ## Hello fellow adventurer 👋
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/71174892/201482577-2a0490b8-2321-45a2-b170-bb3295a023a6.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/aghoshpro/aghoshpro/assets/71174892/98476928-419b-4f23-a85b-c2b9929d0cc9">
   <img alt=OntoRaster Logo" src="https://github.com/aghoshpro/aghoshpro/assets/71174892/98476928-419b-4f23-a85b-c2b9929d0cc9" style="width:auto;">
-</picture>
+</picture>-->
+![code](https://github.com/user-attachments/assets/dfb1e1e8-6771-4ae7-9340-225e9e72efef)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=2000&color=00BBF0&multiline=true&random=false&width=1102&height=150&lines=01100100100111001100101011110100101110+Hi%2C+I'm+Arka+Ghosh+0001100100111110001110001010000101;In+a+world+where+complex+data+generated+from+science+and+industry+is+abundant%2C+I+investigate+;ways+to+connect+these+enormous+arrays+of+data+with+more+relational+databases.+My+research+%26;work+experience+helps+users+to+efficiently+query+databases+and+effortlessly+extract+useful+;information+leads+to+robust+decision+making%2C+attractive+visualization+and+revolutionary+discoveries.;01110010011100111001011010000110010011111000111000101101011010110011101100011010001011011110001101100101011000011110011001000101100110000000110101001110000100110000111000010100001100101000110111000000011001001010111010011101010101110001101101111101001010110)](https://git.io/typing-svg)
 
