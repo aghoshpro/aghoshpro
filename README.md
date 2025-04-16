@@ -9,13 +9,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=2000&color=00BBF0&multiline=true&random=false&width=1102&height=150&lines=01100100100111001100101011110100101110+Hi%2C+I'm+Arka+Ghosh+0001100100111110001110001010000101;In+a+world+where+complex+data+generated+from+science+and+industry+is+abundant%2C+I+investigate+;ways+to+connect+these+enormous+arrays+of+data+with+more+relational+databases.+My+research+%26;work+experience+helps+users+to+efficiently+query+databases+and+effortlessly+extract+useful+;information+leads+to+robust+decision+making%2C+attractive+visualization+and+revolutionary+discoveries.;01110010011100111001011010000110010011111000111000101101011010110011101100011010001011011110001101100101011000011110011001000101100110000000110101001110000100110000111000010100001100101000110111000000011001001010111010011101010101110001101101111101001010110)](https://git.io/typing-svg)
 
+
 ## About Me --> 
 
 - 👀 I like coding, stargazing, vexillology, photography, meeting new people, food and travelling.
 - 🌱 I’m currently learning everything I can.
 - 💞️ I’m looking to collaborate on anything from Coding, Data Science, Spatial Data (Raster and vector) Management and Processing.
 - 📫 Drop me an email at [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aghoshpro@proton.me) to contact :D.
-- 
+  
 ## Working Internationally
 - I've had the opportunity to work on-site at various international locations:
 - ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/665a1d42-92ca-44a7-8239-9630f11bcb9d)
@@ -30,6 +31,7 @@
  ~ ![GR](https://github.com/user-attachments/assets/eadcd35f-cb68-421e-bbc9-320d97f85beb)
  ~ ![RO](https://github.com/user-attachments/assets/5a5e4dfe-d287-433f-8315-aa8b3ed58c8b)
 
+![Metrics](https://metrics.lecoq.io/aghoshpro?template=classic&introduction=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction=false&introduction.title=true&config.timezone=Europe%2FBerlin)
 ## Git Stats
 
 <picture>
