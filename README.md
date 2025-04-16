@@ -31,7 +31,6 @@
  ~ ![GR](https://github.com/user-attachments/assets/eadcd35f-cb68-421e-bbc9-320d97f85beb)
  ~ ![RO](https://github.com/user-attachments/assets/5a5e4dfe-d287-433f-8315-aa8b3ed58c8b)
 
-![Metrics](https://metrics.lecoq.io/aghoshpro?template=achievements=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction=false&introduction.title=true&config.timezone=Europe%2FBerlin)
 ## Git Stats
 
 <picture>
