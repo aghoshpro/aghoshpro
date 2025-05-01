@@ -50,8 +50,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aghoshpro/aghoshpro/output/github-snake.svg" />
 </picture>
 
----
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/aghoshpro/count.svg?"  />
 </div>
