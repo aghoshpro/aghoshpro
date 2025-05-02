@@ -34,7 +34,7 @@
 ## Git Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aghoshpro&locale=en&hide_title=false&&hide=jupyter+notebook,html,scss,M4&layout=compact&card_width=320&exclude_repo=myGIS+Arka-s-World&langs_count=10&theme=merko&hide_border=false&order=2" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aghoshpro&locale=en&hide_title=false&&hide=jupyter+notebook,html,scss,M4&layout=compact&card_width=320&exclude_repo=myGIS,Arka-s-World&langs_count=10&theme=merko&hide_border=false&order=2" height="190" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aghoshpro&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false&point=E0115F&area_color=F0FFB2&line=CEFF00&color=CEFF00" height="190" alt="activity-graph graph"  />
 </div>
 
