@@ -11,9 +11,9 @@
 
 
 ## About Me --> 
-### Structural Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
+### Databricks Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
 
-- 😇 I'm a Data Engineer building pipelines to work on large datasets.
+- 😇 I create ETL/ELT pipelines to work on large datasets (bronze - silver - gold) and build dashboards for actionable BI insights.
 - 👀 I like coding, stargazing, vexillology, photography, meeting new people, food and travelling.
 - 📫 Drop me an email at [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aghoshpro@proton.me) to contact :D.
   
