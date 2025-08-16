@@ -11,7 +11,7 @@
 
 
 ## About Me --> 
-Structural Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
+### Structural Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
 
 - 😇 I'm a Data Engineer building pipelines to work on large datasets.
 - 👀 I like coding, stargazing, vexillology, photography, meeting new people, food and travelling.
