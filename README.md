@@ -1,5 +1,5 @@
 ## Hello, I am Arka👋
-  <img align="right" width="111" height="152" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/87f91225-6540-479b-95c3-a458e093d8f8"/>
+
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/71174892/201482577-2a0490b8-2321-45a2-b170-bb3295a023a6.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/aghoshpro/aghoshpro/assets/71174892/98476928-419b-4f23-a85b-c2b9929d0cc9">
@@ -13,7 +13,7 @@
 
 ## About Me --> 
 ### Databricks Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
-
+  <img align="right" width="100" height="130" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/87f91225-6540-479b-95c3-a458e093d8f8"/>
 - 😇 I create ETL/ELT pipelines to work on large datasets (bronze - silver - gold) and build dashboards for actionable BI insights.
 - 👀 I like coding, stargazing, vexillology, photography, meeting new people, food and travelling.
 - 📫 Drop me an email at [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aghoshpro@proton.me) to contact :D.
