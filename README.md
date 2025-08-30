@@ -10,8 +10,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=2000&color=00BBF0&multiline=true&random=false&width=1102&height=150&lines=01100100100111001100101011110100101110+Hi%2C+I'm+Arka+Ghosh+0001100100111110001110001010000101;In+a+world+where+complex+data+generated+from+science+and+industry+is+abundant%2C+I+investigate+;ways+to+connect+these+enormous+arrays+of+data+with+more+relational+databases.+My+research+%26;work+experience+helps+users+to+efficiently+query+databases+and+effortlessly+extract+useful+;information+leads+to+robust+decision+making%2C+attractive+visualization+and+revolutionary+discoveries.;01110010011100111001011010000110010011111000111000101101011010110011101100011010001011011110001101100101011000011110011001000101100110000000110101001110000100110000111000010100001100101000110111000000011001001010111010011101010101110001101101111101001010110)](https://git.io/typing-svg)
 
-  <img align="right" width="100" height="130" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/87f91225-6540-479b-95c3-a458e093d8f8"/>
+
 ## About Me --> 
+<img align="right" width="100" height="130" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/87f91225-6540-479b-95c3-a458e093d8f8"/>
+
 ### Databricks Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
 
 - 😇 I create ETL/ELT pipelines to work on large datasets (bronze - silver - gold) and build dashboards for actionable BI insights.
