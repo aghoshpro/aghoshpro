@@ -19,7 +19,9 @@
 
 ### Databricks Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
 
-- 😇 I create ETL/ELT pipelines to work on large datasets (bronze - silver - gold) and build dashboards for actionable BI insights.
+- 😇 I create ETL/ELT pipelines to integrate large datasets using medallion architecture (bronze - silver - gold)
+- 👀 I develop analytical dashboards in Databrocks, PowerBI, Tableau for actionable BI insights.
+- I am also researching AI in Data integration over Multidimentional Raster Data as part of my **PhD** research.
 - 👀 I like coding, stargazing, vexillology, photography, meeting new people, food and travelling.
 - 📫 Drop me an email at [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aghoshpro@proton.me) to contact :D.
 
