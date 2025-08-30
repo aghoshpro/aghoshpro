@@ -12,12 +12,10 @@
 
 ## About Me --> 
 ### Databricks Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
-  <img align="right" style="max-width: 100; display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/87f91225-6540-479b-95c3-a458e093d8f8"/>
+  <img align="right" width="71" height="92" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/87f91225-6540-479b-95c3-a458e093d8f8"/>
 - 😇 I create ETL/ELT pipelines to work on large datasets (bronze - silver - gold) and build dashboards for actionable BI insights.
 - 👀 I like coding, stargazing, vexillology, photography, meeting new people, food and travelling.
 - 📫 Drop me an email at [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aghoshpro@proton.me) to contact :D.
-
-<img width="571" height="792" alt="associate-badge-de" src="https://github.com/user-attachments/assets/a22a853c-e089-4ef8-a40c-dbc36c6159c5" />
 
 ## Working Internationally
 - I've had the opportunity to work on-site at various international locations:
