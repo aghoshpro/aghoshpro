@@ -12,7 +12,9 @@
 
 
 ## About Me --> 
-<img align="right" width="100" height="130" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/87f91225-6540-479b-95c3-a458e093d8f8"/>
+[<img align="right" width="100" height="130" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/87f91225-6540-479b-95c3-a458e093d8f8"/>](https://credentials.databricks.com/89936ead-0ae8-499b-92ee-29723db0f392#acc.K2Dl7I95)
+
+[<img align="right" width="100" height="130" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/87f91225-6540-479b-95c3-a458e093d8f8"/>](https://credentials.databricks.com/89936ead-0ae8-499b-92ee-29723db0f392#acc.K2Dl7I95)
 
 ### Databricks Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
 
