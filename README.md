@@ -12,9 +12,9 @@
 
 
 ## About Me --> 
-[<img align="right" width="80" height="110" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/87f91225-6540-479b-95c3-a458e093d8f8"/>](https://credentials.databricks.com/89936ead-0ae8-499b-92ee-29723db0f392)
+[<img align="right" width="80" height="110" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/7a1f127e-fabc-4f39-be0f-82d8f5d9a521"/>](https://credentials.databricks.com/89936ead-0ae8-499b-92ee-29723db0f392)
 
-[<img align="right" width="80" height="110" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/c1856ad5-674a-4ce8-a724-07f820813d13"/>](https://credentials.databricks.com/766c52b1-abe1-4f5d-b5ec-bb5809d5fd5b)
+[<img align="right" width="80" height="110" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/5fa425f6-ba44-4f9f-86db-ee89f90428c6"/>](https://credentials.databricks.com/766c52b1-abe1-4f5d-b5ec-bb5809d5fd5b)
 
 
 ### Databricks Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
