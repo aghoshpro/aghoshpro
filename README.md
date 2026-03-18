@@ -17,13 +17,13 @@
 [<img align="right" width="90" height="110" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/5fa425f6-ba44-4f9f-86db-ee89f90428c6"/>](https://credentials.databricks.com/766c52b1-abe1-4f5d-b5ec-bb5809d5fd5b)
 
 
-### Databricks Data Analyst || Azure Data Engineer || AI Engineer (NLP, LLM)
+### AI Engineer (NLP, LLM) || Azure Data Engineer || Databricks Data Analyst
 
 - 😇 I create ETL/ELT pipelines to integrate large datasets using medallion architecture.
 - 👀 I develop analytical dashboards in Databrocks, PowerBI, Tableau for actionable BI insights.
 - I am also researching AI in Data integration over Multidimentional Raster Data as part of my **PhD** research.
 - 👀 I like coding, stargazing, vexillology, photography, meeting new people, food and travelling.
-- 📫 Drop me an email at [![email](https://img.shields.io/badge/Email-D14836?logo=email&logoColor=white)](mailto:aghoshpro@proton.me) to contact :D.
+- 📫 Drop me an [![email](https://img.shields.io/badge/Email-D14836?logo=email&logoColor=white)](mailto:aghoshpro@proton.me) to contact :D.
 
 ## Working Internationally
 - I've had the opportunity to work on-site at various international locations:
