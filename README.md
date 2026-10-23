@@ -23,7 +23,7 @@
 - 👀 I develop analytical dashboards in Databrocks, PowerBI, Tableau for actionable BI insights.
 - I am also researching AI in Data integration over Multidimentional Raster Data as part of my **PhD** research.
 - 👀 I like coding, stargazing, vexillology, photography, meeting new people, food and travelling.
-- 📫 Drop me an [![email](https://img.shields.io/badge/Email-D14836?logo=email&logoColor=white)](mailto:aghoshpro@proton.me) to contact :D.
+- 📫 Drop me an [![email](https://img.shields.io/badge/Email-D14836?logo=email&logoColor=white)](mailto:jobready.emperor539@passinbox.com) to contact :D.
 
 ## Working Internationally
 - I've had the opportunity to work on-site at various international locations:
