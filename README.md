@@ -1,24 +1,31 @@
-## Howdy 👋
-<picture>
+## Hello, I am Arka👋
+
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/71174892/201482577-2a0490b8-2321-45a2-b170-bb3295a023a6.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/aghoshpro/aghoshpro/assets/71174892/98476928-419b-4f23-a85b-c2b9929d0cc9">
   <img alt=OntoRaster Logo" src="https://github.com/aghoshpro/aghoshpro/assets/71174892/98476928-419b-4f23-a85b-c2b9929d0cc9" style="width:auto;">
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=2000&color=52C800&multiline=true&random=false&width=1102&height=150&lines=01100100100111001100101011110100101110+Hi%2C+I'm+Arka+Ghosh+0001100100111110001110001010000101;In+a+world+where+complex+data+generated+from+science+and+industry+is+abundant%2C+I+investigate+;ways+to+connect+these+enormous+arrays+of+data+with+more+relational+databases.+My+research+%26;work+experience+helps+users+to+efficiently+query+databases+and+effortlessly+extract+useful+;information+leads+to+robust+decision+making%2C+attractive+visualization+and+revolutionary+discoveries.;01110010011100111001011010000110010011111000111000101101011010110011101100011010001011011110001101100101011000011110011001000101100110000000110101001110000100110000111000010100001100101000110111000000011001001010111010011101010101110001101101111101001010110)](https://git.io/typing-svg)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&duration=3000&pause=2000&color=00BBF0&multiline=true&random=false&width=1102&height=150&lines=01100100100111001100101011110100101110+Hi%2C+I'm+Arka+Ghosh+0001100100111110001110001010000101;In+a+world+where+complex+data+generated+from+science+and+industry+is+abundant%2C+I+investigate+;ways+to+connect+these+enormous+arrays+of+data+with+more+relational+databases.+My+research+%26;work+experience+helps+users+to+efficiently+query+databases+and+effortlessly+extract+useful+;information+leads+to+robust+decision+making%2C+attractive+visualization+and+revolutionary+discoveries.;01110010011100111001011010000110010011111000111000101101011010110011101100011010001011011110001101100101011000011110011001000101100110000000110101001110000100110000111000010100001100101000110111000000011001001010111010011101010101110001101101111101001010110)](https://git.io/typing-svg)
 
 
-### About Me
+## About Me --> 
+[<img align="right" width="90" height="110" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/7a1f127e-fabc-4f39-be0f-82d8f5d9a521"/>](https://credentials.databricks.com/89936ead-0ae8-499b-92ee-29723db0f392)
 
-- 👀 I’m interested in many things like coding, stargazing, photography, talking to new people, and travelling.
-- 🌱 I’m currently learning everything I can.
-- 💞️ I’m looking to collaborate on anything from Coding, Data Science, Spatial Data (Raster and vector) Management and Processing.
-- 📫 Drop me an email at [arkag@cs.umu.se](mailto:arkag@cs.umu.se) to contact :D.
+[<img align="right" width="90" height="110" style="display: inline-block;" alt="associate-badge-de" src="https://github.com/user-attachments/assets/5fa425f6-ba44-4f9f-86db-ee89f90428c6"/>](https://credentials.databricks.com/766c52b1-abe1-4f5d-b5ec-bb5809d5fd5b)
 
-### Working Internationally
 
+### AI Engineer (NLP, LLM) || Azure Data Engineer || Databricks Data Analyst
+
+- 😇 I create ETL/ELT pipelines to integrate large datasets using medallion architecture.
+- 👀 I develop analytical dashboards in Databrocks, PowerBI, Tableau for actionable BI insights.
+- I am also researching AI in Data integration over Multidimentional Raster Data as part of my **PhD** research.
+- 👀 I like coding, stargazing, vexillology, photography, meeting new people, food and travelling.
+- 📫 Drop me an [![email](https://img.shields.io/badge/Email-D14836?logo=email&logoColor=white)](mailto:jobready.emperor539@passinbox.com) to contact :D.
+
+## Working Internationally
 - I've had the opportunity to work on-site at various international locations:
 - ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/665a1d42-92ca-44a7-8239-9630f11bcb9d)
  ~ ![image](https://github.com/aghoshpro/aghoshpro/assets/71174892/25d9a3ac-e40b-49d2-8957-cacb8b8a2250)
@@ -32,8 +39,18 @@
  ~ ![GR](https://github.com/user-attachments/assets/eadcd35f-cb68-421e-bbc9-320d97f85beb)
  ~ ![RO](https://github.com/user-attachments/assets/5a5e4dfe-d287-433f-8315-aa8b3ed58c8b)
 
+## Git Stats
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aghoshpro&locale=en&hide_title=false&&hide=jupyter+notebook,html,scss,M4&layout=compact&card_width=320&exclude_repo=myGIS&langs_count=10&theme=merko&hide_border=false&order=2" height="190" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aghoshpro&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false&point=E0115F&area_color=F0FFB2&line=CEFF00&color=CEFF00" height="190" alt="activity-graph graph"  />
+</div>
 
+## Tech Stack
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aghoshpro/aghoshpro/output/github-snake-dark.svg" />
@@ -41,6 +58,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/aghoshpro/aghoshpro/output/github-snake.svg" />
 </picture>
 
-
-<!--[Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=aghoshpro&theme=chartreuse-dark&show_icons=true)
-[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aghoshpro&layout=compact) --!>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/aghoshpro/count.svg?"  />
+</div>
