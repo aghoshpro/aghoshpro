@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, it's Arka</h1>
+<h2 align="center">👋 Hi, it's Arka</h2>
 <div align="center">
   <!-- <h3>"Curiosity drives discovery. Data drives decisions"</h3> -->
     <!-- <h3>"Not everything that can be counted counts, and not everything that counts can be counted"</h3> -->
 </div>
 <p align="center">
-  <img src="assets/hello.gif" width="100%" alt="Hello World banner" />
+  <img src="assets/hello.gif" width="65%" alt="Hello World banner" />
 </p>
 <!-- I work at the intersection of AI, data engineering and research—designing pipelines, integrating heterogeneous datasets, and building analytics and AI-powered tools that make data easier to use. -->
 
@@ -164,9 +164,9 @@
 <tr>
 <td valign="top">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aghoshpro&locale=en&hide_title=false&&hide=jupyter+notebook,html,scss,M4&layout=compact&card_width=320&exclude_repo=myGIS&langs_count=10&theme=merko&hide_border=false&order=2" height="190" width="600" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aghoshpro&locale=en&hide_title=false&&hide=jupyter+notebook,html,scss,M4&layout=compact&card_width=320&exclude_repo=myGIS&langs_count=10&theme=merko&hide_border=false&order=2" height="190" width="500" alt="languages graph"/>
 </td>
-<td>
+<td width="300">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aghoshpro/aghoshpro/output/github-snake-dark.svg" />
