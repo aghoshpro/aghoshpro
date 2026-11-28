@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07131f"/><stop offset=".55" stop-color="#101b2c"/><stop offset="1" stop-color="#172033"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#31d6c5"/><stop offset=".5" stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#31d6c5" stop-opacity=".25"/><stop offset="1" stop-color="#31d6c5" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<circle cx="930" cy="150" r="330" fill="url(#glow)"/>
+<g stroke="#6b829b" stroke-opacity=".15" stroke-width="1">
+  <path d="M0 50H1200 M0 100H1200 M0 150H1200 M0 200H1200 M0 250H1200 M0 300H1200"/><path d="M80 0V360 M160 0V360 M240 0V360 M320 0V360 M400 0V360 M480 0V360 M560 0V360 M640 0V360 M720 0V360 M800 0V360 M880 0V360 M960 0V360 M1040 0V360 M1120 0V360"/>
+</g>
+<g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-opacity=".85"><path d="M755 70h110v65h70v-45h150"/><path d="M820 245h90v-60h130v-55h95"/><path d="M955 275h-80v-45h-55"/></g>
+<g fill="#31d6c5"><circle cx="865" cy="135" r="5"/><circle cx="935" cy="90" r="5"/><circle cx="1040" cy="130" r="5"/><circle cx="910" cy="185" r="5"/><circle cx="1040" cy="240" r="5"/><circle cx="875" cy="230" r="5"/></g>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#8ba4ba" font-size="13" opacity=".8"><text x="790" y="60">{ data : intelligence }</text><text x="1010" y="300">AI / DATA / RESEARCH</text><text x="70" y="300">PYTHON · SQL · CLOUD · ML</text></g>
+<text x="70" y="142" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#f2f7ff">Arka Ghosh</text>
+<text x="74" y="192" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#c3d4e5">AI &amp; Data Engineer  /  PhD in Computer Science (AI)</text>
+<rect x="74" y="226" width="215" height="4" rx="2" fill="url(#accent)"/>
+<text x="74" y="260" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#94a9be">Engineering data systems. Exploring intelligent integration.</text>
+</svg>
